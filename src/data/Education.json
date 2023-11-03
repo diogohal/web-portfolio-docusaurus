@@ -1,0 +1,11 @@
+{
+    "education": [
+        {
+            "start": "2021",
+            "end": "2025",
+            "place": "Universidade Federal do Paraná",
+            "title": "Bacharelado em Ciência da Computação",
+            "logo": "img/ufpr.png"
+        }
+    ]
+}
