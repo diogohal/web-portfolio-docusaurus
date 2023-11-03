@@ -164,7 +164,7 @@ html[data-theme='dark'] {
 .experience--details--img {
   width: 80px;
   margin-right: 3%;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .experience--details--text--title {
@@ -198,7 +198,7 @@ html[data-theme='dark'] {
   display: flex;
 }
 
-.experience--details--text--tools > p{
+.experience--details--text--tools--tool{
   margin-right: 7px;
   color: #f57c7c;
 }
@@ -237,7 +237,7 @@ html[data-theme='dark'] {
 .education--details--img {
   width: 80px;
   margin-right: 5%;
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .education--details--text--place {
