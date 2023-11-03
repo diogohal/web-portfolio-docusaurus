@@ -1,5 +1,7 @@
 import React from 'react'
 import Experiences from '../../data/Experiences.json'
+import '../../css/custom.css'
+
 
 export default function Experience() {
     return (

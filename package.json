@@ -1,12 +1,9 @@
 {
   "name": "docusaurus-2",
   "version": "0.0.0",
-  "homepage": "https://diogohal.github.io/web-portfolio-docusaurus",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",

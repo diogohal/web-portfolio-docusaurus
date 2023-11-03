@@ -168,6 +168,7 @@ html[data-theme='dark'] {
 }
 
 .experience--details--text--title {
+  color: white;
   font-size: 20px;
   font-weight: 700;
 }
@@ -240,6 +241,7 @@ html[data-theme='dark'] {
 }
 
 .education--details--text--place {
+  color: white;
   font-size: 20px;
   font-weight: 700;
 }
