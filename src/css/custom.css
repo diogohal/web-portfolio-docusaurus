@@ -269,10 +269,11 @@ html[data-theme='dark'] {
 
 
 /* ----------- RESPONSIVIDADE ------------- */
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1000px) {
   .about {
     padding-top: 10%;
     height: 100%;
+    padding-bottom: 20px;
   }
   .about--name {
     font-size: 40px;
@@ -362,6 +363,7 @@ html[data-theme='dark'] {
   }
   .footer {
     font-size: 30px;
+    border-top: 2px solid white;
   }
   .navbar {
     font-size: 33px;
@@ -374,4 +376,5 @@ html[data-theme='dark'] {
   :root {
     --ifm-font-size-base: 23px;
   }
+
 }
