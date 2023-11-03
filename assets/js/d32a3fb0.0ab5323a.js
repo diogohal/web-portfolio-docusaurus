@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_2=self.webpackChunkdocusaurus_2||[]).push([[7330],{8509:o=>{o.exports=JSON.parse('{"permalink":"/web-portfolio-docusaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
