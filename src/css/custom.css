@@ -205,6 +205,10 @@ html[data-theme='dark'] {
 }
 
 .experience--details--text--tools--tool{
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  justify-self: center;
   margin-right: 7px;
   color: #f57c7c;
 }
