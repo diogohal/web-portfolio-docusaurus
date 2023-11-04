@@ -38,6 +38,10 @@ html[data-theme='dark'] {
 }
 @font-face {
   font-family: PoppinsBold;
+  src: url('../Poppins/Poppins-Bold.ttf');
+}
+@font-face {
+  font-family: PoppinsMedium;
   src: url('../Poppins/Poppins-Medium.ttf');
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
@@ -51,10 +55,10 @@ html[data-theme='dark'] {
   padding: 100px;
 }
 
+
 /* ========= Nav ========= */
 .navbar{
   background-color: rgb(5,5,5);
-  font-family: broken-console;
   font-size: 20px;
   height: 10vh;
   border-bottom: 1px solid white;
@@ -86,10 +90,10 @@ html[data-theme='dark'] {
 }
 
 .about--name {
-  font-family: broken-console;
+  font-family: PoppinsBold;
   text-align: center;
   font-size: 40px;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: 1px;
 }
 
@@ -147,7 +151,7 @@ html[data-theme='dark'] {
 }
 
 .experience--title {
-  font-family: broken-console;
+  font-family: PoppinsMedium;
   color: #ff5656;
   font-size: 25px;
 }
@@ -223,7 +227,7 @@ html[data-theme='dark'] {
 }
 
 .education--title {
-  font-family: broken-console;
+  font-family: PoppinsMedium;
   color: #ff5656;
   font-size: 25px;
 }
@@ -231,8 +235,9 @@ html[data-theme='dark'] {
 
 .education--details {
   display: flex;
+  width: 100%;
   flex: inline;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: flex-start;
 }
 
@@ -271,10 +276,6 @@ html[data-theme='dark'] {
   font-size: 100px;
 }
 
-nav {
-  font-family: PoppinsBold;
-  font-weight: 600;
-}
 
 
 /* ----------- RESPONSIVIDADE ------------- */
