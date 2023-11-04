@@ -6,7 +6,7 @@
             "title": "Estágio em Análise de Dados",
             "company": "Centro de Computação Científica e Software Livre - C3SL",
             "activities": ["Modelagem do Banco de Dados do Ensalamento UFPR", "Análise de dados nulos para aprimorar a qualidade de dados"],
-            "tools": ["PostgreSQL", "Python", "Numpy", "Matplotlib", "Pandas", "Jupyter"],
+            "tools": "• PostgreSQL • Python • Numpy • Matplotlib • Pandas • Jupyter •",
             "logo": "img/c3sl.png"
         }
     ]

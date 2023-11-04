@@ -5,4 +5,4 @@ hide_table_of_contents: true
 ---
 
 # The Diogo's Place
-Nesta página gostaria de compartilhar um pouco mais de meus hobbies e gostos pessoais
+Nesta página gostaria de compartilhar um pouco mais de meus hobbies e gostos pessoais.

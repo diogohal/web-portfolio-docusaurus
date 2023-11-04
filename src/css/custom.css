@@ -62,13 +62,12 @@ html[data-theme='dark'] {
   font-size: 20px;
   height: 10vh;
   border-bottom: 1px solid white;
-  padding-bottom: 0;
 }
 
 .navbar__logo img {
   width: 45px;
   height: auto;
-  margin-top: -10px;
+  margin-top: -5px;
 }
 
 /* ========= About ========= */
@@ -204,12 +203,8 @@ html[data-theme='dark'] {
   flex-wrap: wrap;
 }
 
-.experience--details--text--tools--tool{
-  display: flex;
-  flex-direction: row;
-  align-self: center;
-  justify-self: center;
-  margin-right: 7px;
+.experience--details--text--tools{
+  margin-top: -10px;
   color: #f57c7c;
 }
 
