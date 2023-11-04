@@ -18,7 +18,7 @@ export default function Experience() {
                             <p className='experience--details--text--activities'>{exp.activities.map(activity => (
                                     <p>• {activity}</p>
                             ))}</p>
-                            <p className='experience--details--text--tools'>{exp.tools}</p>
+                            <span className='experience--details--text--tools'>{exp.tools}</span>
                         </div>
                     </div>
                 ))}

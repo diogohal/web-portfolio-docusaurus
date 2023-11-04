@@ -193,13 +193,14 @@ html[data-theme='dark'] {
   color: rgb(255, 255, 255);
   padding-top: 10px;
 }
+
 .experience--details--text--activities > p{
   margin-top: -20px;
 }
 
 .experience--details--text--tools{
   margin-top: -10px;
-  color: #f57c7c !important;
+  color: #f57c7c
 }
 
 
