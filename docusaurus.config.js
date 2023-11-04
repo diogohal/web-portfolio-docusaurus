@@ -11,15 +11,15 @@ const config = {
   favicon: 'img/logo_computer.png',
 
   // Set the production url of your site here
-  url: 'https://diogohal.github.io',
+  url: 'https://diogohal.com.br',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/web-portfolio-docusaurus/',
+  baseUrl: '',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'diogohal', // Usually your GitHub org/user name.
-  projectName: 'web-portfolio-docusaurus', // Usually your repo name.
+  projectName: 'diogohal', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
