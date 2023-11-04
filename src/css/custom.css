@@ -38,7 +38,7 @@ html[data-theme='dark'] {
 }
 @font-face {
   font-family: PoppinsBold;
-  src: url('../fonts/Poppins-Bold.ttf');
+  src: url('../Poppins/Poppins-Medium.ttf');
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
@@ -196,6 +196,8 @@ html[data-theme='dark'] {
 
 .experience--details--text--tools{
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .experience--details--text--tools--tool{
@@ -267,6 +269,11 @@ html[data-theme='dark'] {
 
 .docs {
   font-size: 100px;
+}
+
+nav {
+  font-family: PoppinsBold;
+  font-weight: 600;
 }
 
 
