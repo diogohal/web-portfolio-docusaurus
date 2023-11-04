@@ -199,7 +199,7 @@ html[data-theme='dark'] {
 
 .experience--details--text--tools{
   margin-top: -10px;
-  color: #f57c7c;
+  color: #f57c7c !important;
 }
 
 
@@ -281,7 +281,6 @@ html[data-theme='dark'] {
   .about--name {
     font-size: 40px;
     width: 100%;
-
   }
   .about--description {
     width: 100%;
@@ -290,7 +289,6 @@ html[data-theme='dark'] {
   .experience--content {
     width: 100%;
   }
-  
   .experience--details--text--tools {
     padding-top: 10px;
     flex-wrap: wrap;
@@ -298,7 +296,6 @@ html[data-theme='dark'] {
   .experience--details--text--tools > p {
     margin-top: -20px;
   }
-
   .education--content {
     width: 100%;
   }
@@ -320,7 +317,6 @@ html[data-theme='dark'] {
   .about--contact--img {
     width: 80px;
   }
-
   .experience--content {
     width: 50%;
   }
@@ -345,7 +341,6 @@ html[data-theme='dark'] {
   .experience--details--text--tools {
     font-size: 25px;
   }
-
   .education--content {
     width: 50%;
   }
