@@ -198,12 +198,6 @@ html[data-theme='dark'] {
 }
 
 .experience--details--text--tools{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-}
-
-.experience--details--text--tools{
   margin-top: -10px;
   color: #f57c7c;
 }
