@@ -10,7 +10,7 @@ O código pode ser encontrado no [repositório GitHub](https://github.com/diogoh
 
 A principal motivação para esse projeto foi automatizar a geração de fotos para um efeito de time-lapse. Em 2021, eu deixei meu cabelo crescer e, durante o ano, tirei uma foto por dia do meu rosto. O intuito era criar um vídeo time-lapse no último dia do ano para observar a evolução. Na época, eu não conhecia ferramentas que poderiam fazer isso, e como eu também não sabia programar, fiz a edição de todas as 365 fotos na mão, o que me tomou muitas horas.
 
-O vídeo do time-lapse pode ser encontrado no meu perfil do [Instagram](instagram.com/diogohal).
+O vídeo do time-lapse pode ser encontrado no meu perfil do [Instagram](https://instagram.com/diogohal).
 
 ## Demonstração
 Após clonar o repositório, podem ser encontradas as 9 primeiras fotos do vídeo na pasta **test_samples**. A pasta **result_samples** contém as imagens após a transformação.
